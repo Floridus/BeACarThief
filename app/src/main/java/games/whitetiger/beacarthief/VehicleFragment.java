@@ -63,7 +63,7 @@ public class VehicleFragment extends Fragment implements ICallback {
                 storedData.updateVehicle(getActivity(), vehicle);
 
                 // Vehicle successfully stolen
-                if (Helper.isAnEvent(99)) {
+                if (Helper.isAnEvent(IConstants.VEHICLE_STEAL_CHANCE)) {
                     storedData.addUserVehicle(getActivity(), vehicle);
                     stealVehicle();
                 // Bust during stealing
