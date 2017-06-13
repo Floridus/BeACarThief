@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "460910675668",
+    "firebase_url": "https://be-a-carthief.firebaseio.com",
+    "project_id": "be-a-carthief",
+    "storage_bucket": "be-a-carthief.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460910675668:android:7cb6f9eef3061621",
+        "android_client_info": {
+          "package_name": "games.whitetiger.beacarthief"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460910675668-k0vqu2rgttsarqr4k3rldfuthkcf7q0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjZebRip6QM2bagNZlkpjnZSnwjYOizVQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

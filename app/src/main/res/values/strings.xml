@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Be a CarThief</string>
+    <string name="api_key" templateMergeStrategy="preserve" translatable="false">
+        f460b5215b4b2c0475ee2571b063a80d
+    </string>
+
+    <string name="action_sign_in_short">Registrieren</string>
+    <string name="minimum_password">Passwort zu kurz, es müssen mindestens 6 Zeichen sein.</string>
+    <string name="user_not_exists">Die angegebene E-Mail Adresse ist nicht vorhanden.</string>
+    <string name="password_not_correct">Passwort ist nicht korrekt.</string>
+    <string name="user_not_enabled">Der Account ist noch nicht aktiviert.</string>
+    <string name="user_is_banned">Der Account ist gesperrt.</string>
+    <string name="user_already_exists">Benutzername oder E-Mail Adresse ist bereits vergeben.</string>
+    <string name="email_already_exists">Die angegebene E-Mail Adresse ist bereits vergeben.</string>
+    <string name="password_reset">Dein Password wurde erfolgreich zurückgesetzt.</string>
+    <string name="api_sql_fail">Es ist ein API Fehler aufgetreten.</string>
+    <string name="authorization_fail">Es ist ein API Autorisierungs Fehler aufgetreten.</string>
+    <string name="registration_success">Erfolgreich registriert. Du musst den Account noch aktivieren.</string>
+
+    <string name="change_email">E-Mail Adresse ändern</string>
+    <string name="change_password">Passwort ändern</string>
+    <string name="prompt_password">Aktuelles Passwort</string>
+    <string name="remove_user">Account löschen</string>
+    <string name="new_pass">Neues Passwort</string>
+
+    <string name="hint_username">Benutzername</string>
+    <string name="hint_email">E-Mail Adresse</string>
+    <string name="hint_new_email">Neue E-Mail Adresse</string>
+    <string name="hint_password">Passwort</string>
+
+    <string name="empty_username">Benutzername eingeben</string>
+    <string name="empty_email">E-Mail Adresse eingeben</string>
+    <string name="empty_password">Passwort eingeben</string>
+    <string name="non_valid_email">Keine valide E-Mail Adresse</string>
+
+    <string name="btn_link_to_register">Noch kein Spieler? Registriere dich jetzt!</string>
+    <string name="btn_link_to_login">Bereits registriert. Melden dich an!</string>
+    <string name="btn_forgot_password">Passwort vergessen?</string>
+    <string name="btn_reset_password">Passwort zurücksetzen</string>
+    <string name="btn_back"><![CDATA[<< Zurück]]></string>
+    <string name="btn_login">ANMELDEN</string>
+    <string name="btn_change">Ändern</string>
+    <string name="btn_send">Senden</string>
+    <string name="btn_remove">Löschen</string>
+    <string name="btn_sign_out">Abmelden</string>
+
+    <string name="lbl_forgot_password">Passwort vergessen?</string>
+    <string name="msg_forgot_password">Wir brauchen deine registrierte E-Mail Adresse, um dir das Passwort zurückzusetzen.</string>
+
+    <string name="menu_user">Profil</string>
+    <string name="menu_map">Karte</string>
+    <string name="menu_garage">Garage</string>
+    <string name="menu_settings">Einstellungen</string>
+
+    <string name="title_profile">Profil</string>
+    <string name="title_finances">Finanzen</string>
+    <string name="title_achievements">Erfolge</string>
+
+    <string name="no_vehicles_items">Keine Fahrzeuge</string>
+    <string name="no_vehicles_msg">Stehle Fahrzeuge um deine Garage zu füllen.</string>
+    <string name="vehicle_is_away">Das Fahrzeug ist bereits weg.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
